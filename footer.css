@@ -2,7 +2,7 @@
 footer{
     /* margin-top: 22%; */
     background-color: #15192D;
-    padding-top: 2%;
+    padding: 4% 0;
 }
 .footer-wrap{
     width: 80%;
@@ -22,7 +22,7 @@ footer{
 .footer>p{
     width: 40%;
     font-size: 15px;
-    margin-bottom: 2%;
+    margin-bottom: 5%;
 } 
 .footer p i{
     padding-right: 2%;

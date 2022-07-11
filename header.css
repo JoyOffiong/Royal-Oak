@@ -30,6 +30,7 @@ li{
     align-items: center;
     top:  0;
     z-index: 45;
+    height: 60px;
     background-color: #fff;
     justify-content: space-between;
     position: relative;
@@ -86,7 +87,7 @@ li.active{
        
          .topheader-content{
             display: flex;
-            width:  5%;
+            width:  7%;
             align-items: center;
             margin:  0 auto;
             position: relative; 
@@ -147,4 +148,8 @@ li.active{
         }
 }
 @media(max-width:768px){
+    
+    .topheader-content{
+        width:  10%;
+    }
 }
